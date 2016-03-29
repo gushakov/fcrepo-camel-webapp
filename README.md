@@ -1,3 +1,7 @@
+*****
+**_This project is no longer supported. The recommended integration between Fedora 4 and external components is via [fcrepo-camel-toolbox](https://github.com/fcrepo4-exts/fcrepo-camel-toolbox)_.**
+*****
+
 #Web-Deployable Fedora/Camel integration components
 
 ##Building

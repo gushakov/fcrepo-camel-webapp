@@ -1,3 +1,10 @@
+**Fork notes**
+
+This fork maintains `fcrepo-camel-webapp` customised to work with latest available stable [fcrepo-camel-toolbox](https://github.com/fcrepo4-exts/fcrepo-camel-toolbox)
+component and configured according to `Indexing Service (Triplestore)` scenario.
+
+_Original notice_
+
 *****
 **_This project is no longer supported. The recommended integration between Fedora 4 and external components is via [fcrepo-camel-toolbox](https://github.com/fcrepo4-exts/fcrepo-camel-toolbox)_.**
 *****
